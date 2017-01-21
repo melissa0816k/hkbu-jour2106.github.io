@@ -12,7 +12,7 @@
 * Student 7
 * Student 8
 * Student 9
-* Ko Yuk Wai http://melissa0816k.github.io
+* Student 10
 * Student 11
 * Student 12
 * Student 13
