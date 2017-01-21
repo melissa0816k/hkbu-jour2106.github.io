@@ -7,7 +7,7 @@
 * Student 2
 * Student 3
 * Student 4
-* Student 5  
+* Student 5 
 * Student 6
 * Student 7
 * Student 8
