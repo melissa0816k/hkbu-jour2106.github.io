@@ -11,7 +11,7 @@
 * Student 6 
 * Student 7
 * Student 8
-* Melissa KO http://melissa0816k.github.io
+* Student 9
 * Student 10
 * Student 11
 * Student 12
